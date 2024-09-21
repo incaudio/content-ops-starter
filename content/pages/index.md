@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Distribution
-        subtitle: Numbers Done
+        subtitle: To 233+ OTT platforms
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
