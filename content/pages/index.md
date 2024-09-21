@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Spread your
+      text: Spread your talent
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
