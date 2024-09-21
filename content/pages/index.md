@@ -63,10 +63,9 @@ sections:
       - type: FeaturedItem
         title: Free Remastering
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Artists receive free remastering services, enhancing the quality of
+          their music.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
