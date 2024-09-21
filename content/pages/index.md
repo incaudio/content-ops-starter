@@ -61,7 +61,7 @@ sections:
     subtitle: We provide you with
     items:
       - type: FeaturedItem
-        title: Distribution
+        title: Free Remastering
         subtitle: To 233+ OTT platforms
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
