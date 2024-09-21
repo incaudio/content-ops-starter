@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: We are here to support
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      wwe are only label which charges only 8% royalty share for distributing,
+      marketingmarketing
     actions:
       - label: Get started
         altText: ''
