@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: We are here to support
     text: >
-      wwe are only label which charges only 8% royalty share for distributing,
-      marketingmarketing
+      wewe are only label which charges only 8% royalty share for distributing,
+      marketing, and more.
     actions:
       - label: Get started
         altText: ''
