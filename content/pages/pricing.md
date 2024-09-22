@@ -77,7 +77,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Apply
+          - label: Apply now
             url: 'https://forms.gle/cBpbSUhG57YseqtC7'
             icon: arrowRight
             iconPosition: right
