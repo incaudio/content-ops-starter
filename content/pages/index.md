@@ -582,7 +582,7 @@ sections:
     items:
       - title: Alex Rustom
         tagline: EDM producer
-        subtitle: This is the item subtitle
+        subtitle: The power of difference
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
