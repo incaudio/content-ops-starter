@@ -716,7 +716,7 @@ sections:
       label: Contact Us
       color: text-primary
       type: Badge
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
