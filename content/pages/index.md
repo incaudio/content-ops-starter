@@ -626,7 +626,7 @@ sections:
         type: FeaturedItem
       - title: Alan Walker
         tagline: EDM producer
-        subtitle: This is the item subtitle
+        subtitle: Get a chance to be like him.
         text: ''
         image:
           url: /images/alan-walker-press-cr-Rikkard-Haggbom-2016-billboard-1548.jpg
