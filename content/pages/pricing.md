@@ -33,7 +33,6 @@ sections:
           cannot leave our label for 360 days from the joining date.
 
         features:
-          - Feature three
           - Feature four
         image:
           url: /images/abstract-feature1.svg
