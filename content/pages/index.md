@@ -624,7 +624,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Alan Walker
         tagline: EDM producer
         subtitle: This is the item subtitle
         text: >
