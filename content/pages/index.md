@@ -580,7 +580,7 @@ sections:
       type: TitleBlock
     subtitle: We have already worked with
     items:
-      - title: Feature Item One
+      - title: Alex Rustom
         tagline: EDM producer
         subtitle: This is the item subtitle
         text: |
