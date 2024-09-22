@@ -238,7 +238,7 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://vimeo.com/channels/amv/639466596'
       controls: false
       aspectRatio: '16:9'
       styles:
