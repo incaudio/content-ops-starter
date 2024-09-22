@@ -15,22 +15,13 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://forms.gle/C4JtZGRUhdwdbuWP8'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
@@ -312,7 +303,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
@@ -348,13 +339,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: >-
         /images/data-protection-internet-security-flat-composition-with-people-holding-keys-vector-illustration_1284-76847.jpg
@@ -660,15 +644,12 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Get up to date
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Put your name and email to get up to date
+    text: |2
+       INC AUDIO is an innovative and artist-focused record label designed to provide emerging and established artists with comprehensive support and a platform for success. Based in India and recently expanding into international markets, particularly Europe, INC AUDIO has quickly established itself as a distinctive player in the global music industry. The label prides itself on its unique approach to artist management, offering services that are not commonly available at other labels, particularly for independent and rising talent.
     media:
       fields:
         - name: name

@@ -65,15 +65,15 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://forms.gle/C4JtZGRUhdwdbuWP8",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Enquiry",
+            "url": "https://forms.gle/aTnCmszxTfuzLFfb8",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
