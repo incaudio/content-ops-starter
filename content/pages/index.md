@@ -572,7 +572,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: We are there
       color: text-primary
       styles:
         self:
