@@ -449,10 +449,9 @@ sections:
           make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Management officer
         subtitle: Varun shah
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Management is crucial in business as it ensures that resources are
+          utilized efficiently, goals are met, and operations run smoothly.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
