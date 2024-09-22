@@ -1,5 +1,5 @@
 ---
-title: Royal and management
+title: Royalties and management
 slug: case-study-1
 date: '1929-09-09'
 excerpt: >-
