@@ -648,11 +648,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      INC AUDIO is an innovative and artist-focused record label designed to
+      provide emerging and established artists with comprehensive support and a
+      platform for success. Based in India and recently expanding into
+      international markets, particularly Europe, INC AUDIO has quickly
+      established itself as a distinctive player in the global music industry.
+      The label prides itself on its unique approach to artist management,
+      offering services that are not commonly available at other labels,
+      particularly for independent and rising talent.
     media:
       fields:
         - name: name
