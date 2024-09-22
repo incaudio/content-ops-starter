@@ -35,6 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/images (3).jpeg
     badge:
       label: A record label
       color: text-primary
