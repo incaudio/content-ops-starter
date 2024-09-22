@@ -72,7 +72,6 @@ sections:
           cannot leave our label for 3 months from the joining date of the plan.
 
         features:
-          - Feature two
           - Feature three
           - Feature four
         image:
