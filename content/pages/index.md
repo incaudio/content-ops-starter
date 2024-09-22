@@ -585,7 +585,7 @@ sections:
         subtitle: You may also collaborate with him through us!
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/avatars-dzr3IgddjqxXwI2M-AhsSzQ-t1080x1080.jpg
           altText: Placeholder Image
           styles:
             self:
