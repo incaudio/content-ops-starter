@@ -648,15 +648,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Put your name and email to get up to date
-    text: >
-      INCINC AUDIO is an innovative and artist-focused record label designed to
-      provide emerging and established artists with comprehensive support and a
-      platform for success. Based in India and recently expanding into
-      international markets, particularly Europe, INC AUDIO has quickly
-      established itself as a distinctive player in the global music industry.
-      The label prides itself on its unique approach to artist management,
-      offering services that are not commonly available at other labels,
-      particularly for independent and rising talent.
+    text: |2
+       INC AUDIO is an innovative and artist-focused record label designed to provide emerging and established artists with comprehensive support and a platform for success. Based in India and recently expanding into international markets, particularly Europe, INC AUDIO has quickly established itself as a distinctive player in the global music industry. The label prides itself on its unique approach to artist management, offering services that are not commonly available at other labels, particularly for independent and rising talent.
     media:
       fields:
         - name: name
