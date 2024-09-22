@@ -32,8 +32,7 @@ sections:
           the songs; otherwise, they will be under our label. However, you
           cannot leave our label for 360 days from the joining date.
 
-        features:
-          - Feature four
+        features: []
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
