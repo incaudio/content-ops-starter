@@ -34,7 +34,7 @@ sections:
 
         features: []
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/flat-creativity-concept-illustration_52683-64279.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
