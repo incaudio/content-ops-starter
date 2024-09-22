@@ -356,7 +356,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/data-protection-internet-security-flat-composition-with-people-holding-keys-vector-illustration_1284-76847.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
