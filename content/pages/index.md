@@ -339,8 +339,8 @@ sections:
       type: TitleBlock
     subtitle: Don't loose identity
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      The label offers free copyrights for artist names, a rare benefit in the
+      music industry.
     actions:
       - label: Get started
         url: /
