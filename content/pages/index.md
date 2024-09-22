@@ -582,7 +582,7 @@ sections:
     items:
       - title: Alex Rustom
         tagline: EDM producer
-        subtitle: You may also collaborate with him through us!
+        subtitle: Get a chance to talk to him
         text: ''
         image:
           url: /images/avatars-dzr3IgddjqxXwI2M-AhsSzQ-t1080x1080.jpg
