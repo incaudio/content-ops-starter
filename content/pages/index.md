@@ -604,7 +604,7 @@ sections:
         type: FeaturedItem
       - title: Miracle
         tagline: Indie pop artist
-        subtitle: This is the item subtitle
+        subtitle: 'Get a chance to talk to him '
         text: ''
         image:
           url: /images/Screenshot_20240922-134333~2.png
