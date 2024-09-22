@@ -581,7 +581,7 @@ sections:
     subtitle: We have already worked with
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: EDM producer
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
