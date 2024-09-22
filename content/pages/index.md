@@ -316,7 +316,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/digital-marketing-modern-flat-concept-for-web-banner-design-woman-marketer-working-online-on-laptop-and-posting-promotional-content-on-social-media-illustration-with-isolated-people-scene-free-vector.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
