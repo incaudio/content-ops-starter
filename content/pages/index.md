@@ -261,11 +261,9 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Our team is always looking after you
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      The label provides promotional, marketing, and community-building
+      services, ensuring artists have a solid foundation for long-term success.
     actions: []
     media:
       title: Title of the video
