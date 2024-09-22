@@ -604,7 +604,7 @@ sections:
         type: FeaturedItem
       - title: Miracle
         tagline: Indie pop artist
-        subtitle: ''
+        subtitle: 'You may also collaborate '
         text: ''
         image:
           url: /images/Screenshot_20240922-134333~2.png
