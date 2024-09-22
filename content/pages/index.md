@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://forms.gle/C4JtZGRUhdwdbuWP8'
         showIcon: false
         icon: arrowRight
         iconPosition: right
