@@ -14,9 +14,24 @@ sections:
       - title: Core
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Our core plan offers free distribution to 233 OTT platform,
+          promotional tools, marketing, collaboration tools, mastering tools,
+          production assistance, new ideas for upcoming songs, management,
+          response within 3 days, personal website, international live programs,
+          and March for only 8% royalty.
+
+
+          Our core plan includes a free two-hour manager who will handle all
+          your online affairs, but there may be some delays in responses.
+
+
+          Additionally, our core plan offers the first three copyrights of your
+          songs for free. After the first three releases, we will charge $0.99
+          for each song’s copyright to remain under your name for the rest of
+          the songs; otherwise, they will be under our label. However, you
+          cannot leave our label for 360 days from the joining date.
+
         features:
           - Feature one
           - Feature two
