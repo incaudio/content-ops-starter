@@ -91,9 +91,8 @@ sections:
               borderRadius: x-large
       - title: Personal Manager
         subtitle: ''
-        text: >
-          Minimal Royalties: INC AUDIO charges artists a low 8% royalty fee,
-          offering a cost-effective platform for emerging talent.
+        text: |
+          Each artist is assigned a dedicated personal manager for 24/7 support.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
