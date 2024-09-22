@@ -33,7 +33,6 @@ sections:
           cannot leave our label for 360 days from the joining date.
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
