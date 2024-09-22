@@ -72,7 +72,7 @@
             "type": "Button"
         },
         {
-            "label": "Send my stats",
+            "label": "Withdraw",
             "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
