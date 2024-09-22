@@ -445,8 +445,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Management is about arranging and telling. Leadership is about
+          nurturing and enhancing."
         tagline: Management officer
         subtitle: Varun shah
         text: >
