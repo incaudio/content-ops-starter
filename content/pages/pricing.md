@@ -71,8 +71,7 @@ sections:
           every 360 days after one year of joining this plan. However, you
           cannot leave our label for 3 months from the joining date of the plan.
 
-        features:
-          - Feature three
+        features: []
         image:
           url: /images/828ffa68-ca01-4034-ba19-c1f2e90a4240.png
           altText: Pricing plan 2
