@@ -93,7 +93,7 @@ sections:
         subtitle: ''
         text: >
           Each artist is assigned a dedicated personal manager for 24/7
-          support\*.
+          support.\*
         image:
           url: /images/icon2.svg
           altText: Featured icon two
