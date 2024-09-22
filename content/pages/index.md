@@ -254,7 +254,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Comprehensive Support
       color: text-dark
       styles:
         self:
