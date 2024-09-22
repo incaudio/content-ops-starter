@@ -388,7 +388,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: 'Founder '
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Dr. Amritendu Khanra '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
