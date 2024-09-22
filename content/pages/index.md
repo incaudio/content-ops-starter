@@ -649,7 +649,7 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: >
-      INC AUDIO is an innovative and artist-focused record label designed to
+      INCINC AUDIO is an innovative and artist-focused record label designed to
       provide emerging and established artists with comprehensive support and a
       platform for success. Based in India and recently expanding into
       international markets, particularly Europe, INC AUDIO has quickly
