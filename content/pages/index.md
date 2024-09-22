@@ -395,7 +395,7 @@ sections:
           committed to helping artists navigate the complexities of the music
           industry while focusing on personal and professional growth.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Screenshot_20240922-125452~2.png
           altText: Maria Walters
           styles:
             self:
