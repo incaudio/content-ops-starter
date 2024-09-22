@@ -389,10 +389,11 @@ sections:
           to step in, even the alumni.”
         tagline: 'Founder '
         subtitle: 'Dr. Amritendu Khanra '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Founded by Dr. Amritendu Khanra, INC AUDIO emphasizes long-term artist
+          success and the importance of a supportive team. The label is
+          committed to helping artists navigate the complexities of the music
+          industry while focusing on personal and professional growth.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
