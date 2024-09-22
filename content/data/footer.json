@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/channels4_profile (1).jpg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-light-fg-dark",
     "type": "Footer"
 }

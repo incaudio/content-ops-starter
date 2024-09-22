@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Spread your talent
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We are here to support
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      INC AUDIO offers a unique combination of affordability, comprehensive
+      support, and personalized services, creating a valuable platform for
+      artists seeking to build successful careers in music.
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +32,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/playing-music-at-home-KEBVYWTR3Z-w600.jpg
     badge:
-      label: This is a badge
+      label: A record label
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,15 +59,14 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We provide you with
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Free Remastering
+        subtitle: ''
+        text: >
+          Artists receive free remastering services, enhancing the quality of
+          their music.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +89,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Personal Manager
+        subtitle: ''
+        text: >
+          Each artist is assigned a dedicated personal manager for 24/7
+          support.\*
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +113,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Collaborative Opportunities
+        subtitle: ''
+        text: >
+          Artists can collaborate with other artists for free, a feature that
+          sets INC AUDIO apart from other competitors. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +146,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: See the difference
       color: text-primary
       styles:
         self:
@@ -199,25 +196,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,21 +207,23 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Expansion and Vision
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: We create the successfull future
+    text: >
+      INC AUDIO has expanded from India into international markets, particularly
+      in Europe, establishing itself as an international brand.
+
+      The label focuses on working with a select group of artists with the
+      potential to shape the future of music, providing exclusive opportunities
+      for those chosen.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://vimeo.com/channels/amv/639466596'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -278,22 +258,20 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Comprehensive Support
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Our team is always looking after you
+    text: >
+      The label provides promotional, marketing, and community-building
+      services, ensuring artists have a solid foundation for long-term success.
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: ''
       autoplay: true
       loop: true
       muted: true
@@ -325,8 +303,8 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      A free service provided by us to all signed artists. so that they can
+      focus on there career.
     actions:
       - label: Get started
         url: /
@@ -342,7 +320,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/digital-marketing-modern-flat-concept-for-web-banner-design-woman-marketer-working-online-on-laptop-and-posting-promotional-content-on-social-media-illustration-with-isolated-people-scene-free-vector.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -355,13 +334,13 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Copyright Management
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Don't loose identity
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      The label offers free copyrights for artist names, a rare benefit in the
+      music industry.
     actions:
       - label: Get started
         url: /
@@ -377,7 +356,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/data-protection-internet-security-flat-composition-with-people-holding-keys-vector-illustration_1284-76847.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -402,26 +382,27 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Meet our teem
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “A founder can carry an institution only so far, and then others have
+          to step in, even the alumni.”
+        tagline: 'Founder '
+        subtitle: 'Dr. Amritendu Khanra '
+        text: >
+          Founded by Dr. Amritendu Khanra, INC AUDIO emphasizes long-term artist
+          success and the importance of a supportive team. The label is
+          committed to helping artists navigate the complexities of the music
+          industry while focusing on personal and professional growth.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Screenshot_20240922-125452~2.png
           altText: Maria Walters
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -435,15 +416,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "If you're not in college and you don't know a cofounder, the next
+          best thing I think is to go work at an interesting company."
+        tagline: Co-founder
+        subtitle: Arunav Khanra (AVIK)
+        text: >
+          The person who have been responsible for helping the founder for
+          creating so great service.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download-1-64567b7a4addee5ea93586e4.jpg
           altText: John Doe
           styles:
             self:
@@ -464,13 +445,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Management is about arranging and telling. Leadership is about
+          nurturing and enhancing."
+        tagline: Management officer
+        subtitle: Varun shah
+        text: >
+          Management is crucial in business as it ensures that resources are
+          utilized efficiently, goals are met, and operations run smoothly.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -523,7 +504,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +534,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -567,7 +550,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -589,21 +572,20 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: We are there
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: We have already worked with
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Alex Rustom
+        tagline: EDM producer
+        subtitle: Get a chance to talk to him
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/avatars-dzr3IgddjqxXwI2M-AhsSzQ-t1080x1080.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +602,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Miracle
+        tagline: Indie pop artist
+        subtitle: 'You may also collaborate '
+        text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot_20240922-134333~2.png
           altText: Placeholder image
           styles:
             self:
@@ -643,13 +624,12 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Alan Walker
+        tagline: EDM producer
+        subtitle: Get a chance to be like him.
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/alan-walker-press-cr-Rikkard-Haggbom-2016-billboard-1548.jpg
           altText: Placeholder image
           styles:
             self:
