@@ -73,7 +73,7 @@
         },
         {
             "label": "Send my stats",
-            "url": "/",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
