@@ -424,7 +424,7 @@ sections:
           The person who have been responsible for helping the founder for
           managing so great service.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/download-1-64567b7a4addee5ea93586e4.jpg
           altText: John Doe
           styles:
             self:
