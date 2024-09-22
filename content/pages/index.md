@@ -605,8 +605,7 @@ sections:
       - title: Miracle
         tagline: Indie pop artist
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/Screenshot_20240922-134333~2.png
           altText: Placeholder image
