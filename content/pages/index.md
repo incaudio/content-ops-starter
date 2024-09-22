@@ -214,9 +214,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: We create the successfull future
-    text: |+
+    text: >
+      INC AUDIO has expanded from India into international markets, particularly
+      in Europe, establishing itself as an international brand.
 
-
+      The label focuses on working with a select group of artists with the
+      potential to shape the future of music, providing exclusive opportunities
+      for those chosen.
     media:
       title: Title of the video
       url: 'https://vimeo.com/channels/amv/639466596'
