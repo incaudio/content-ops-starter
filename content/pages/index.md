@@ -35,6 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/glassmorph-transparent-blank-login-sign-600nw-2277511117.jpg
     badge:
       label: A record label
       color: text-primary
