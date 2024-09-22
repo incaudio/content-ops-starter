@@ -89,7 +89,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Minimal Royalties
+      - title: Personal Manager
         subtitle: ''
         text: >
           Minimal Royalties: INC AUDIO charges artists a low 8% royalty fee,
