@@ -9,26 +9,37 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: 'We have two plans '
     plans:
-      - title: Developers
+      - title: Core
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: >+
+          Our core plan offers free distribution to 233 OTT platform,
+          promotional tools, marketing, collaboration tools, mastering tools,
+          production assistance, new ideas for upcoming songs, management,
+          response within 3 days, personal website, international live programs,
+          and March for only 8% royalty.
+
+
+          Our core plan includes a free two-hour manager who will handle all
+          your online affairs, but there may be some delays in responses.
+
+
+          Additionally, our core plan offers the first three copyrights of your
+          songs for free. After the first three releases, we will charge $0.99
+          for each song’s copyright to remain under your name for the rest of
+          the songs; otherwise, they will be under our label. However, you
+          cannot leave our label for 360 days from the joining date.
+
+        features: []
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/flat-creativity-concept-illustration_52683-64279.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Apply now
+            url: 'https://forms.gle/cBpbSUhG57YseqtC7'
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -43,57 +54,31 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
+      - title: 'Elite '
+        price: $115
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+        description: >+
+          Our elite plan offers free distribution to 233 OTT platform,
+          promotional tools, marketing, collaboration tools, mastering tools,
+          production assistance, new ideas for upcoming songs, management,
+          response within 3 days, personal website, international live programs,
+          and March for only $115 per month.
+
+
+          Our elite plan includes a 24/7 manager who will handle all your online
+          affairs on time and offers forever copyrights for your songs for free.
+          Additionally, we provide free radio placements and offer a world tour
+          every 360 days after one year of joining this plan. However, you
+          cannot leave our label for 3 months from the joining date of the plan.
+
+        features: []
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/828ffa68-ca01-4034-ba19-c1f2e90a4240.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
+          - label: Apply now
+            url: 'https://forms.gle/cBpbSUhG57YseqtC7'
             icon: arrowRight
             iconPosition: right
             style: secondary
