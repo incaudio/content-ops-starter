@@ -9,8 +9,9 @@ sections:
       type: TitleBlock
     subtitle: We are here to support
     text: >
-      wewe are only label which charges only 8% royalty share for distributing,
-      marketing, and more.
+      INC AUDIO offers a unique combination of affordability, comprehensive
+      support, and personalized services, creating a valuable platform for
+      artists seeking to build successful careers in music.
     actions:
       - label: Get started
         altText: ''
