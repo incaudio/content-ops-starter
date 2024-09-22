@@ -72,7 +72,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Send my stats",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
