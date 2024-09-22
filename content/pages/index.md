@@ -627,9 +627,7 @@ sections:
       - title: Alan Walker
         tagline: EDM producer
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/alan-walker-press-cr-Rikkard-Haggbom-2016-billboard-1548.jpg
           altText: Placeholder image
