@@ -416,8 +416,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "If you're not in college and you don't know a cofounder, the next
+          best thing I think is to go work at an interesting company."
         tagline: Co-founder
         subtitle: Arunav Khanra (AVIK)
         text: >
