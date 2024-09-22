@@ -385,8 +385,8 @@ sections:
     subtitle: Meet our teem
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “A founder can carry an institution only so far, and then others have
+          to step in, even the alumni.”
         tagline: 'Founder '
         subtitle: 'Dr. Amritendu Khanra '
         text: >-
