@@ -339,13 +339,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: >-
         /images/data-protection-internet-security-flat-composition-with-people-holding-keys-vector-illustration_1284-76847.jpg
