@@ -57,9 +57,20 @@ sections:
       - title: 'Elite '
         price: $115
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Our elite plan offers free distribution to 233 OTT platform,
+          promotional tools, marketing, collaboration tools, mastering tools,
+          production assistance, new ideas for upcoming songs, management,
+          response within 3 days, personal website, international live programs,
+          and March for only $115 per month.
+
+
+          Our elite plan includes a 24/7 manager who will handle all your online
+          affairs on time and offers forever copyrights for your songs for free.
+          Additionally, we provide free radio placements and offer a world tour
+          every 360 days after one year of joining this plan. However, you
+          cannot leave our label for 3 months from the joining date of the plan.
+
         features:
           - Feature one
           - Feature two
