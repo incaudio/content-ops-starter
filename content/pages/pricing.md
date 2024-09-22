@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'We have two plans '
     plans:
-      - title: Developers
+      - title: Core
         price: Free
         details: No credit card required
         description: >-
