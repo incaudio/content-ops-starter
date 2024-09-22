@@ -602,7 +602,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Mi
+      - title: Miracle
         tagline: Indie pop artist
         subtitle: This is the item subtitle
         text: |
