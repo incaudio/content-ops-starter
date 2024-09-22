@@ -39,7 +39,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Apply now
-            url: /
+            url: 'https://forms.gle/cBpbSUhG57YseqtC7'
             icon: arrowRight
             iconPosition: right
             style: secondary
