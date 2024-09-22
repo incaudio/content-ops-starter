@@ -24,7 +24,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Go to our YouTube",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
