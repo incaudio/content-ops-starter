@@ -422,7 +422,7 @@ sections:
         subtitle: Arunav Khanra (AVIK)
         text: >
           The person who have been responsible for helping the founder for
-          managing so great service.
+          creating so great service.
         image:
           url: /images/download-1-64567b7a4addee5ea93586e4.jpg
           altText: John Doe
