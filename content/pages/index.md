@@ -91,8 +91,9 @@ sections:
               borderRadius: x-large
       - title: Personal Manager
         subtitle: ''
-        text: |
-          Each artist is assigned a dedicated personal manager for 24/7 support.
+        text: >
+          \*Each artist is assigned a dedicated personal manager for 24/7
+          support.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
