@@ -1,7 +1,7 @@
 ---
 title: Sony Music
 slug: case-study-1
-date: '1929-01-05'
+date: '1929-09-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
