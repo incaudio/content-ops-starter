@@ -582,7 +582,7 @@ sections:
     items:
       - title: Alex Rustom
         tagline: EDM producer
-        subtitle: The power of difference
+        subtitle: You may also collaborate with him through us!
         text: ''
         image:
           url: /images/abstract-feature1.svg
