@@ -647,7 +647,7 @@ sections:
       text: Get up to date
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Put your name and email to get up to date
     text: >
       INCINC AUDIO is an innovative and artist-focused record label designed to
       provide emerging and established artists with comprehensive support and a
