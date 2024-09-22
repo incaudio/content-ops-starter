@@ -267,8 +267,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: >-
-        https://www.vecteezy.com/video/28341379-pov-listening-music-in-subway-train-bw-lo-fi-animated-background-commuter-on-phone-80s-retro-lofi-aesthetic-wallpaper-cartoon-animation-train-night-monochrome-linear-chill-4k-video-motion-graphic
+      url: ''
       autoplay: true
       loop: true
       muted: true
